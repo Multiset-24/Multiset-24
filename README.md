@@ -16,7 +16,7 @@
 
 - Data Structures & Algorithms  
 - Web Development  
-
+- Mathematics 
 ---
 
 ## 📫 Contact
