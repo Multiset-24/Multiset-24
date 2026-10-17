@@ -19,7 +19,6 @@
 - I work on payments backend at **Paytm**. I started as an SDE intern and now work there as a Software Engineer.
 - I've solved **1000+ problems** across LeetCode and Codeforces.
 - I was a DSA Teaching Assistant at AlgoZenith and an IIT-JEE mentor at PhysicsWallah, and I like teaching. [Teacher](https://github.com/Multiset-24/Teacher) grew out of that.
-- National Finalist at Smart India Hackathon 2025 and National Semifinalist at Flipkart GRiD 7.0 (top 2% of 160,000+).
 
 ## Work at Paytm
 
